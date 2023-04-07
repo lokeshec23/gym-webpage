@@ -1,0 +1,39 @@
+/* body{
+    background-image: url(https://www.muscleandfitness.com/wp-content/uploads/2019/07/Hands-Clapping-Chaulk-Kettlebell.jpg?quality=86&strip=all);
+    background-repeat: no-repeat;
+    background-size: cover;  
+} */
+
+.bg-img{
+    background-image: url(https://www.muscleandfitness.com/wp-content/uploads/2019/07/Hands-Clapping-Chaulk-Kettlebell.jpg?quality=86&strip=all);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center;
+}
+
+.slk-link{
+    text-decoration: none;
+    color: #000;
+    padding-left: 10px;
+}
+
+.slk-link:hover{
+    color: blue;
+    border: 1px solid black;
+    /* text-decoration: underline; */
+}
+
+.slk-heading{
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.slk-hr{
+    color: #000;
+    /* padding-top: 80px; */
+    padding-bottom: 80px;
+}
+
+.slk-btn{
+    margin-top: 10px;
+}
